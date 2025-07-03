@@ -1,10 +1,13 @@
 # sales-analysis
 
-## Product Overviews Page
-![Alt text](img/product-overviews.jpg)
+## Product Overviews
+![Alt text](img/products-overview.png)
 
-## Revenue and Profit Page
-![Alt text](img/revenue&profit.jpg)
+## Revenue and Profit
+![Alt text](img/revenue&profit.png)
 
-## Key Influencer
-![Alt text](img/key-influencer.jpg)
+## Key Influencer Decrease Case
+![Alt text](img/key-influencer-decrease-case.png)
+
+## Key Influencer Increase Case
+![Alt text](img/key-influencer-increase-case.png)
