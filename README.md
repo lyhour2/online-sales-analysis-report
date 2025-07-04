@@ -1,7 +1,7 @@
 # sales-analysis
 
 ## Product Overviews
-![Alt text](img/products-overview.png)
+![Alt text](img/products-overviews.png)
 
 ## Revenue and Profit
 ![Alt text](img/revenue&profit.png)
